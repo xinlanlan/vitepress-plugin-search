@@ -926,7 +926,7 @@ function SearchPlugin(e) {
     },
     config: () => ({
       resolve: {
-        alias: { "./VPNavBarSearch.vue": "vitepress-plugin-search/Search.vue" }
+        alias: { "./VPNavBarSearch.vue": "wb-vitepress-plugin-search/Search.vue" }
       }
     }),
     async resolveId(o) {

@@ -48,4 +48,4 @@ Accept [FlexSearch Index Options](https://github.com/nextapps-de/flexsearch#opti
 
 Provided by flexsearch  
   
-See [chinese settings for example](https://github.com/emersonbottero/vitepress-plugin-search/issues/11)
+See [chinese settings for example](https://github.com/xinlanlan/vitepress-plugin-search/issues/11)
