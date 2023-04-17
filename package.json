@@ -1,5 +1,5 @@
 {
-  "name": "@wb/vitepress-plugin-search",
+  "name": "wb-vitepress-plugin-search",
   "version": "1.0.0",
   "description": "Provide local search to your documentation site.",
   "types": "./dist/types/src/index.d.ts",
