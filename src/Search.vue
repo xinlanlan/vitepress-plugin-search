@@ -42,7 +42,7 @@ const result = computed(() => {
       var preview = item["p"];
       var link = item["l"];
       var anchor = item["a"];
-      link = link.split(" ").join("-");
+      // link = link.split(" ").join("-");
       search.push({id: i, link, title, preview, anchor });
     }
     return search as any[];
