@@ -26,7 +26,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/emersonbottero/vitepress-plugin-search.git"
+    "url": "git+https://github.com/xinlanlan/vitepress-plugin-search.git"
   },
   "keywords": [
     "vitepress",
@@ -36,9 +36,9 @@
   "author": "Emerson Bottero",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/emersonbottero/vitepress-plugin-search/issues"
+    "url": "https://github.com/xinlanlan/vitepress-plugin-search/issues"
   },
-  "homepage": "https://github.com/emersonbottero/vitepress-plugin-search#readme",
+  "homepage": "https://github.com/xinlanlan/vitepress-plugin-search#readme",
   "peerDependencies": {
     "flexsearch": "^0.7.31",
     "vitepress": "^1.0.0-alpha.65",
